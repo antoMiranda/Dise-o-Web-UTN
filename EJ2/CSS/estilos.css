@@ -1,0 +1,32 @@
+#cuerpo{
+  border: 3px solid black;
+  width: 40%;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding: 20px;
+}
+
+.logo{
+  width: 100%;
+  text-align: center;
+}
+
+.texto{
+  background-color: grey;
+  color: white;
+  font-family: sans-serif;
+  padding: 10px;
+}
+
+.negrita{
+  font-weight: bold;
+}
+
+.footer p {
+  font-family: serif;
+  text-align: right;
+ }
+ .footer {
+   background-image: url("../img/banner1.jpeg");
+   height: 120px;
+ }
